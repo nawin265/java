@@ -21,8 +21,8 @@ int num=i,count=0,rev=0,power=0,sum=0,temp=num;
        }
         if(temp==sum)
          System.out.println(temp+ " is a amstromg");
-         //else
-         // System.out.println(temp+ " is not a amstromg");
+         else
+          System.out.println(temp+ " is not a amstromg");
      }
 
 
